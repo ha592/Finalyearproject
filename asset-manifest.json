@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Finalyearproject/static/css/main.68c85612.css",
+    "main.js": "/Finalyearproject/static/js/main.eec4d0ed.js",
+    "static/js/787.7b63f85e.chunk.js": "/Finalyearproject/static/js/787.7b63f85e.chunk.js",
+    "static/media/zaheer.jpg": "/Finalyearproject/static/media/zaheer.c710dde26142b53d8d10.jpg",
+    "static/media/trees.jfif": "/Finalyearproject/static/media/trees.cb2c4602c40faa01f2f1.jfif",
+    "static/media/treetrack.png": "/Finalyearproject/static/media/treetrack.52f2abc9d4672ee64f89.png",
+    "static/media/treechain.png": "/Finalyearproject/static/media/treechain.90877342fadf80c831a4.png",
+    "static/media/Forest.webp": "/Finalyearproject/static/media/Forest.74033a1d0b981af41666.webp",
+    "static/media/hassan.jpeg": "/Finalyearproject/static/media/hassan.e8f82c6d1076a5456211.jpeg",
+    "static/media/awais.jfif": "/Finalyearproject/static/media/awais.d820057331f1e5d9ad43.jfif",
+    "static/media/bulb.png": "/Finalyearproject/static/media/bulb.15e480e1b99b94b97844.png",
+    "static/media/leaf.png": "/Finalyearproject/static/media/leaf.375011fb49d34b02fb42.png",
+    "static/media/Leaves.png": "/Finalyearproject/static/media/Leaves.63d03bc92911c7682019.png",
+    "static/media/tree.png": "/Finalyearproject/static/media/tree.e7394d9bea15affdd488.png",
+    "static/media/tree.jfif": "/Finalyearproject/static/media/tree.daf0d566a12864415d36.jfif",
+    "static/media/logo.svg": "/Finalyearproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Finalyearproject/index.html",
+    "main.68c85612.css.map": "/Finalyearproject/static/css/main.68c85612.css.map",
+    "main.eec4d0ed.js.map": "/Finalyearproject/static/js/main.eec4d0ed.js.map",
+    "787.7b63f85e.chunk.js.map": "/Finalyearproject/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c85612.css",
+    "static/js/main.eec4d0ed.js"
+  ]
+}
